@@ -4,3 +4,7 @@ git add .-----> all files from working to staging
 git add fileNmae----> only one file will move from working to staging
 git status-----> gives up teh status of which is tracked or untracked
 git commit -m "added"-----> staging to localrepo
+git branch -M main----->creating the branch
+git remote add origin https://github.com/satyavijayakoka/tixdo1.git----> connect the
+local repo to remote repo
+git push -u origin main----->push the code from local to remote
