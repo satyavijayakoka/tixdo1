@@ -1,0 +1,6 @@
+git init---> initialise the git repo
+working---->staging----->localrepo----->remoterepo
+git add .-----> all files from working to staging
+git add fileNmae----> only one file will move from working to staging
+git status-----> gives up teh status of which is tracked or untracked
+git commit -m "added"-----> staging to localrepo
